@@ -1,7 +1,57 @@
 {
   "products": [
-    { "id": "1", "name": "Product 1", "desc": "Mo ta san pham", "price": 200 },
-    { "id": "2", "name": "Product 1", "desc": "Mo ta san pham", "price": 200 },
-    { "id": "3", "name": "Product 1", "desc": "Mo ta san pham", "price": 200 }
+    {
+      "id": "1",
+      "name": "Product 1cxzcasd",
+      "desc": "Mo ta san phamaaa",
+      "price": "200111111"
+    },
+    {
+      "id": "2",
+      "name": "Product 1",
+      "desc": "Mo ta san pham",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Product 1",
+      "desc": "Mo ta san pham",
+      "price": 200
+    },
+    {
+      "name": "asdasdas",
+      "price": "0123123",
+      "desc": "asdasd",
+      "id": "MNHHfms"
+    },
+    {
+      "name": "Áo",
+      "price": "0123",
+      "desc": "",
+      "id": "6HN0301"
+    },
+    {
+      "name": "asdasdas",
+      "price": "01111",
+      "desc": "asdasd",
+      "id": "iVqaU7P"
+    }
+  ],
+  "user": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "username": "quangha",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "username": "admin1",
+      "password": "admin",
+      "id": 3
+    }
   ]
 }
